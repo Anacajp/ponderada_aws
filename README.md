@@ -55,3 +55,17 @@ A aplicação cria automaticamente uma tabela chamada `EMPLOYEES` com a seguinte
 - A aplicação inclui validação básica de dados
 - O sistema formata automaticamente valores monetários e datas
 - A tabela é ordenada por ID em ordem decrescente (mais recentes primeiro)
+
+
+-----
+
+## Vídeo
+Segue o link para o [vídeo da atividade.](https://youtu.be/0yfCxbaT4HA) 
+
+
+### Terminal
+Como ressaltado no vídeo, não foi possível filmar o terminal utilizado. Dessa forma, segue algumas imagens para cumprir com o requisito.
+
+<div align="center">
+<img src="./terminal.jpg" width="100%">
+</div>
